@@ -82,6 +82,7 @@ body {
 
 .sidebar-nav > .sidebar-brand a {
   color: #999999;
+  font-size: 20px;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
